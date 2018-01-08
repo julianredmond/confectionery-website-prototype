@@ -148,6 +148,10 @@ footer {
     font-size: 120%;
     line-height: 1.5;
   }
+
+  .one {
+    bottom: -20em;
+    left: 11em;
   }
 
   h1 {
