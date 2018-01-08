@@ -175,6 +175,16 @@ footer {
     padding-right: 4.5em;
     margin-top: 0;
   }
+
+  header {
+    padding-bottom: 13em;
+  }
+
+  div {
+    display: inline-block;
+    margin-left: 10em;
+    margin-top: 0;
+  }
 }
 
 @media only screen and (min-width: 90em) {
