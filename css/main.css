@@ -63,7 +63,6 @@ div {
   text-align: center;
   margin: 50px 0px 0px 5px;
   padding: 4px;
-
 }
 
 h2 {
@@ -116,6 +115,30 @@ footer {
   html {
     font-size: 110%;
     line-height: 1.4;
+  }
+
+  .first {
+    width: 100%;
+    margin-left: 0;
+    position: relative;
+  }
+
+  .one {
+    position: absolute;
+    bottom: -13em;
+    left: 5.5em;
+  }
+
+  .second {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .third {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0;
   }
 }
 
