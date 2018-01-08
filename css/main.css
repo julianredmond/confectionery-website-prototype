@@ -148,6 +148,13 @@ footer {
     font-size: 120%;
     line-height: 1.5;
   }
+  }
+
+  h1 {
+    float: left;
+    margin-left: .5em;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
