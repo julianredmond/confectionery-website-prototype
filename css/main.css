@@ -132,14 +132,14 @@ footer {
   }
 
   .first {
-    width: 100%;
-    margin-left: 0;
+    width: 94%;
+    margin-left: 1em;
     position: relative;
   }
 
   .one {
     position: absolute;
-    bottom: -7.25em;
+    bottom: 7em;
     left: 1.75em;
     background-color: #fff;
     padding: .25em;
@@ -165,9 +165,14 @@ footer {
     line-height: 1.5;
   }
 
+  .first {
+    width: 85%;
+    margin-left: 3em;
+  }
+
   .one {
-    bottom: -13em;
-    left: 10.5em;
+    bottom: 3em;
+    left: 9.5em;
   }
 
   h1 {
@@ -200,4 +205,41 @@ footer {
     font-size: 130%;
     line-height: 1.5;
   }
+
+  h1 {
+    margin-left: 2em;
+    margin-top: 2em;
+  }
+
+  nav {
+    margin-right: .5em;
+    margin-top: .5em;
+  }
+
+  div {
+    margin-left: 18em;
+    margin-top: 7em;
+    margin-bottom: 3em;
+  }
+
+  .first {
+    width: 70%;
+    margin-left: 9em;
+  }
+
+  .one {
+    margin-left: 10em;
+    margin-bottom: -11em;
+  }
+
+  .second {
+    width: 70%;
+    margin-left: 9em;
+  }
+
+  .third {
+    width: 70%;
+    margin-left: 9em;
+  }
+
 }
