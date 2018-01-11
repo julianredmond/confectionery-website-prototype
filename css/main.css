@@ -22,7 +22,6 @@ h1 {
   font-family: "Fugaz One", cursive;
   font-size: 2.5rem;
   text-align: left;
-
 }
 
 nav {
@@ -31,20 +30,17 @@ nav {
   text-align: center;
   background-color: grey;
   font-size: 1.2rem;
-
 }
 
 li {
   margin: .75em;
   display: block;
   padding-right: 40px;
-
 }
 
 a {
   text-decoration: none;
   color: white;
-
 }
 
 a:hover {
@@ -65,7 +61,6 @@ h2 {
   font-family: "Fugaz One", cursive;
   text-align: center;
   margin: 50px;
-
 }
 
 img {
@@ -81,7 +76,6 @@ figcaption {
   margin: 1.5em .5em;
   font-size: .9rem;
   text-align: center;
-
 }
 
 section {
@@ -89,7 +83,6 @@ section {
   color: white;
   text-align: center;
   margin: 3em 0;
-
 }
 
 p {
@@ -97,7 +90,6 @@ p {
   padding-top: .5em;
   padding-bottom: .5em;
   padding-left: .25em;
-
 }
 
 footer {
